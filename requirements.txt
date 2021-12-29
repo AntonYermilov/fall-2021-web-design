@@ -1,0 +1,10 @@
+fastapi
+dependency_injector
+sqlalchemy
+bcrypt
+pydantic
+python-jose
+pandas
+numpy
+yfinance
+plotly
